@@ -47,5 +47,5 @@
 
 - LinkedIn: [mohamed-eldamaty-71830b287](https://www.linkedin.com/in/mohamed-eldamaty-71830b287/)
 - 📧 Email: [mohamed77eldamaty@gmail.com](mailto:mohamed77eldamaty@gmail.com)
-- 📄 [View My Resume](https://github.com/mohamed-eldamaty/mohamed-eldamaty/blob/main/Mohamed_Eldamaty_CV.pdf)
+- 📄 [View My Resume](https://raw.githubusercontent.com/mohamed-eldamaty/mohamed-eldamaty/refs/heads/main/Mohamed_Eldamaty_CV.pdf)
 
